@@ -1,5 +1,5 @@
 # FTX-Arbitrage-Bot
- This is a trangular arbitrage bot trading on FTX exchange
+ This is a trangular arbitrage bot trading on [FTX crypto exchange](https://ftx.com/#a=7024065)
 
 To deploy:
 - Input your API key & secret from FTX
